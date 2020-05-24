@@ -1,4 +1,5 @@
-![Flouze logo](https://imgur.com/fIjmlyJ)
+![Flouze logo](https://i.imgur.com/fIjmlyJ.jpg)
+
 E-Commerce made with React and Firebase
 
 ## How-To-Use
