@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How-To-Use
+
+1. Clone repo
+2. `npm i` or `add install`
+3. Create your Firebase project
+4. In folder `src/firebase`, set your firebase.config.js base on the example.
+
 ## Available Scripts
 
 In the project directory, you can run:
