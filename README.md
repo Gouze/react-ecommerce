@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Flouze logo](https://i.imgur.com/fIjmlyJ.jpg)
+
+E-Commerce made with React and Firebase
 
 ## How-To-Use
 
